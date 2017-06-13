@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">先知</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Error -->
+    <string name="network_error">网络异常，请检查网络设置</string>
+    <string name="db_error">数据库出错了</string>
+
+    <string name="refresh_empty_text">点我一下，重新加载</string>
+    <string name="post_img_count_value">￥%1$d图</string>
+
+    <string name="news_content_from_value">%1$s %2$s</string>
+
+
+    <string name="N_A">N/A</string>
+    <string name="close">Close</string>
+    <string name="vdec">vdec</string>
+    <string name="fps">fps</string>
+    <string name="v_cache">v-cache</string>
+    <string name="a_cache">a-cache</string>
+
+    <string name="media_information">Media Information</string>
+    <string name="mi_player">Player</string>
+    <string name="mi_media">Media</string>
+    <string name="mi_profile_level">Profile level</string>
+    <string name="mi_pixel_format">Pixel format</string>
+    <string name="mi_resolution">Resolution</string>
+    <string name="mi_length">Length</string>
+    <string name="mi_stream_fmt1">Stream #%d</string>
+    <string name="mi_type">Type</string>
+    <string name="mi_language">Language</string>
+    <string name="mi_codec">Codec</string>
+    <string name="mi_frame_rate">Frame rate</string>
+    <string name="mi_bit_rate">Bit rate</string>
+    <string name="mi_sample_rate">Sample rate</string>
+    <string name="mi_channels">Channels</string>
+    <string name="mi__selected_video_track">*</string>
+    <string name="mi__selected_audio_track">*</string>
+
+    <string name="TrackType_video">Video</string>
+    <string name="TrackType_audio">Audio</string>
+    <string name="TrackType_subtitle">Subtitle</string>
+    <string name="TrackType_timedtext">Timed text</string>
+    <string name="TrackType_metadata">Meta data</string>
+    <string name="TrackType_unknown">Unknown</string>
+
+    <string name="VideoView_error_text_invalid_progressive_playback">Invalid progressive playback</string>
+    <string name="VideoView_error_text_unknown">Unknown</string>
+    <string name="VideoView_error_button">OK</string>
+
+    <string name="VideoView_ar_aspect_fit_parent">Aspect / Fit parent</string>
+    <string name="VideoView_ar_aspect_fill_parent">Aspect / Fill parent</string>
+    <string name="VideoView_ar_aspect_wrap_content">Aspect / Wrap content</string>
+    <string name="VideoView_ar_match_parent">Free / Fill parent</string>
+    <string name="VideoView_ar_16_9_fit_parent">16:9 / Fit parent</string>
+    <string name="VideoView_ar_4_3_fit_parent">4:3 / Fit parent</string>
+
+    <string name="VideoView_render_none">Render: None</string>
+    <string name="VideoView_render_surface_view">Render: SurfaceView</string>
+    <string name="VideoView_render_texture_view">Render: TextureView</string>
+
+    <string name="VideoView_player_none">Player: None</string>
+    <string name="VideoView_player_AndroidMediaPlayer">Player: AndroidMediaPlayer</string>
+    <string name="VideoView_player_IjkMediaPlayer">Player: IjkMediaPlayer</string>
+    <string name="VideoView_player_IjkExoMediaPlayer">Player: IjkExoMediaPlayer</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_video">视频</string>
+    <string name="menu_photo">图片</string>
+    <string name="menu_news">新闻</string>
+    <string name="menu_night_mode">夜间模式</string>
+    <string name="menu_title_other">其他</string>
+
+    <string name="transition_photo">transition_animation_news_photos</string>
+
+    <string name="news_channel_my_title">我的频道</string>
+    <string name="edit_text">编辑</string>
+    <string name="finish_text">完成</string>
+    <string name="news_channel_recommend_title">频道推荐</string>
+    <string name="news_channel_title">频道管理</string>
+    <string name="loading">作死加载中...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_photo">美图</string>
+    <string name="title_news_photo_detail">图集</string>
+    <string name="share">分享</string>
+    <string name="share_contents">来自「先知」的分享：%1$s %2$s</string>
+    <string name="picture_already_save_to">图片已保存至%1$s</string>
+    <string name="set_wallpaper_success">设置壁纸成功</string>
+    <string name="save">保存</string>
+    <string name="set_wallpaper">设置壁纸</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="app_share_text">
+        先知：一款集合了新闻、视频和图片信息的Material Design风格的应用；
+        项目源码：https://github.com/RosenRay/Seer_app 。
+    </string>
+    <string name="large_text">
+        毕业设计作品
+        先知：一款集合了新闻、微信精选、图片信息和问答机器人的Material Design风格的应用。先知采用MVP模式，基于RxJava+Retrofit2等优秀的第三方开源库开发。\n\n
+
+        新闻模块数据来源于网易，图片模块数据来源于干货集中营，微信精选数据来源于聚合，问答机器人数据来源于图灵机器人。（如有侵权，马上删除。）\n\n
+        本项目已开源至GitHub：https://github.com/RosenRay/Seer_app 。
+
+        主要用到的开源库：RxJava、Retrofit2、Butterknife、PhotoView、Glide、Picasso、KLog…\n\n
+
+        作者： 饶灿\n\n
+        邮箱：raocan827@163.com\n\n
+    </string>
+
+
+    <string name="first_title">全方位</string>
+    <string name="first_desc">实时与世界接轨，身未出门，时事先知</string>
+    <string name="second_title">一天两次</string>
+    <string name="second_desc">早晚一次，资讯尽在你手</string>
+    <string name="third_title">定义</string>
+    <string name="third_desc">打开你与世界交互的大门</string>
+    <!-- 添加欢迎语 -->
+    <string-array name="welcome_tips">
+        <item>主人，您好！O(∩_∩)O</item>
+        <item>亲，你回来啦~</item>
+        <item>Welcome!!</item>
+        <item>呵呵，你来啦~</item>
+        <item>Hi, long time no see !</item>
+    </string-array>
+</resources>
